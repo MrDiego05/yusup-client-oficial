@@ -1,4 +1,16 @@
 {
   "minimumVersion": 1,
-  "packages": []
+  "packages": [
+    {
+      "name": "desafiomine_2",
+      "title": "DesafioMine II",
+      "version": "1.0.0",
+      "location": "desafiomine_2.json",
+      "priority": 0,
+      "description": "un modpack increible",
+      "tags": ["*nuevo*","terror","multiplayer","magazine"],
+      "poster": "poster.png",
+      "banner": "banner.png"
+    }
+  ]
 }
