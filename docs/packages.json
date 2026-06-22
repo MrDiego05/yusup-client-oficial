@@ -1,16 +1,36 @@
 {
-  "minimumVersion": 1,
-  "packages": [
+  "minimumVersion" : 1,
+  "packages" : [
     {
-      "name": "desafiomine_2",
-      "title": "DesafioMine II",
-      "version": "1.0.0",
-      "location": "desafiomine_2.json",
-      "priority": 0,
-      "description": "un modpack increible",
-      "tags": ["*nuevo*","terror","multiplayer","magazine"],
-      "poster": "poster.png",
-      "banner": "banner.png"
+      "title" : "Chucky Games",
+      "name" : "chuckygames",
+      "version" : "2026-06-21-22-56-00",
+      "description" : "mejor modpack de terror",
+      "tags" : [
+        "terror",
+        "*nuevo*",
+        "increible"
+      ],
+      "poster" : null,
+      "banner" : null,
+      "location" : "chuckygames.json",
+      "priority" : 0
+    },
+    {
+      "title" : "DesafioMine II",
+      "name" : "desafiomine_2",
+      "version" : "2026-06-21-22-55-28",
+      "description" : "un modpack increible",
+      "tags" : [
+        "*nuevo*",
+        "terror",
+        "multiplayer",
+        "magazine"
+      ],
+      "poster" : null,
+      "banner" : null,
+      "location" : "desafiomine_2.json",
+      "priority" : 0
     }
   ]
 }
